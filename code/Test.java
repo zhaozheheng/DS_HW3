@@ -1,5 +1,3 @@
-package zzh;
-
 class AVLNode {	//build the node class
 	AVLNode left, right;
 	int key;
